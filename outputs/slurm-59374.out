@@ -1,0 +1,95 @@
+“Job Submitted”
+DM_m= 8.716056e-02 10^10 M_sun 	 L_box=1.433600e+02 Mpc
+No of threads = 1
+norml=9.313226e-10	CC=2.984421e+03	rho_b_inv=8.000000e+00
+ok delta_fill time = 1.256378e+02
+ok cal_pow time = 1.593521e+02
+ok Zel_move time = 1.634844e+02
+ok cic = 4.302496e+01
+delta_aap=1.446251e-05
+(z=120.0) time for  Nbody loop = 4.939848e+02	time for write output = 3.981189e+02
+delta_aap=2.445476e-04
+(z=110.0) time for  Nbody loop = 6.602953e+02	time for write output = 4.315360e+02
+delta_aap=1.749536e-04
+(z=105.0) time for  Nbody loop = 6.073911e+02	time for write output = 4.742941e+02
+delta_aap=2.170280e-04
+(z=100.0) time for  Nbody loop = 6.082657e+02	time for write output = 4.695332e+02
+delta_aap=1.567788e-05
+(z=95.0) time for  Nbody loop = 8.186167e+02	time for write output = 4.716873e+02
+delta_aap=7.234514e-05
+(z=90.0) time for  Nbody loop = 8.199533e+02	time for write output = 4.717257e+02
+delta_aap=1.388965e-04
+(z=85.0) time for  Nbody loop = 8.123367e+02	time for write output = 4.719534e+02
+delta_aap=2.177730e-04
+(z=80.0) time for  Nbody loop = 8.131129e+02	time for write output = 4.405113e+02
+delta_aap=6.221700e-05
+(z=75.0) time for  Nbody loop = 8.276934e+02	time for write output = 4.062903e+02
+delta_aap=1.766132e-04
+(z=70.0) time for  Nbody loop = 8.293245e+02	time for write output = 4.074144e+02
+delta_aap=6.701052e-05
+(z=65.0) time for  Nbody loop = 9.979951e+02	time for write output = 4.082070e+02
+delta_aap=2.419259e-04
+(z=60.0) time for  Nbody loop = 1.184153e+03	time for write output = 4.750347e+02
+delta_aap=2.136994e-04
+(z=55.0) time for  Nbody loop = 1.432738e+03	time for write output = 4.757559e+02
+delta_aap=6.966293e-07
+(z=50.0) time for  Nbody loop = 1.849118e+03	time for write output = 4.781154e+02
+delta_aap=1.312830e-04
+(z=45.0) time for  Nbody loop = 2.060419e+03	time for write output = 4.800269e+02
+delta_aap=1.511071e-04
+(z=40.0) time for  Nbody loop = 2.482340e+03	time for write output = 4.835257e+02
+delta_aap=1.375284e-04
+(z=35.0) time for  Nbody loop = 3.123258e+03	time for write output = 4.854741e+02
+delta_aap=2.302788e-04
+(z=30.0) time for  Nbody loop = 3.992682e+03	time for write output = 4.862853e+02
+delta_aap=2.034642e-04
+(z=25.0) time for  Nbody loop = 5.517502e+03	time for write output = 4.885141e+02
+delta_aap=1.574904e-04
+(z=20.0) time for  Nbody loop = 6.630145e+03	time for write output = 4.292314e+02
+delta_aap=1.849942e-04
+(z=17.5) time for  Nbody loop = 4.783730e+03	time for write output = 4.424645e+02
+delta_aap=1.959279e-04
+(z=15.0) time for  Nbody loop = 6.286019e+03	time for write output = 4.732754e+02
+delta_aap=7.422268e-05
+(z=12.5) time for  Nbody loop = 8.845741e+03	time for write output = 4.383727e+02
+delta_aap=8.523464e-05
+(z=10.0) time for  Nbody loop = 1.255314e+04	time for write output = 4.286152e+02
+delta_aap=9.102374e-05
+(z=9.0) time for  Nbody loop = 6.808454e+03	time for write output = 4.304446e+02
+delta_aap=1.112521e-04
+(z=8.0) time for  Nbody loop = 8.302147e+03	time for write output = 4.315938e+02
+delta_aap=1.390651e-04
+(z=7.0) time for  Nbody loop = 1.036306e+04	time for write output = 4.306646e+02
+delta_aap=1.073778e-04
+(z=6.0) time for  Nbody loop = 1.338806e+04	time for write output = 4.311599e+02
+delta_aap=5.982816e-05
+(z=5.0) time for  Nbody loop = 1.808218e+04	time for write output = 4.383175e+02
+delta_aap=8.375943e-05
+(z=4.0) time for  Nbody loop = 2.379061e+04	time for write output = 3.994675e+02
+delta_aap=6.407499e-07
+(z=3.0) time for  Nbody loop = 3.378305e+04	time for write output = 4.013971e+02
+delta_aap=2.126396e-04
+(z=2.5) time for  Nbody loop = 2.431799e+04	time for write output = 4.024924e+02
+delta_aap=1.168251e-04
+(z=2.0) time for  Nbody loop = 3.266589e+04	time for write output = 4.034031e+02
+delta_aap=5.161762e-05
+(z=1.8) time for  Nbody loop = 2.104147e+04	time for write output = 4.037018e+02
+delta_aap=1.119375e-04
+(z=1.5) time for  Nbody loop = 2.529087e+04	time for write output = 4.062184e+02
+delta_aap=1.923740e-04
+(z=1.2) time for  Nbody loop = 3.123106e+04	time for write output = 4.117351e+02
+delta_aap=5.295873e-05
+(z=1.0) time for  Nbody loop = 3.923045e+04	time for write output = 4.124607e+02
+delta_aap=1.837611e-04
+(z=0.8) time for  Nbody loop = 5.402882e+04	time for write output = 4.131719e+02
+delta_aap=2.449751e-04
+(z=0.5) time for  Nbody loop = 6.828330e+04	time for write output = 4.159866e+02
+delta_aap=9.298325e-05
+(z=0.2) time for  Nbody loop = 1.057449e+05	time for write output = 4.505781e+02
+delta_aap=9.882450e-05
+(z=0.1) time for  Nbody loop = 9.012626e+04	time for write output = 4.510536e+02
+delta_aap=1.394749e-05
+(z=0.0) time for  Nbody loop = 6.999552e+04	time for write output = 5.774329e+02
+number of step = 3865
+done. Total time taken = 222hr 2min 49sec
+“Job finished successfully”
